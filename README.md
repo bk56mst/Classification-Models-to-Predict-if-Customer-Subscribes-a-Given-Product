@@ -1,4 +1,4 @@
-# Classification-models-to-predict-if-customer-subscribes-a-given-product.
+# Classification Models to Predict if Customer Subscribes a Given Product
 
 
 Data: 
